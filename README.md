@@ -1,4 +1,4 @@
-# 🥘 Santé Sénégal
+# 🥘 Santé 
 
 A culturally-aware health & nutrition app for Senegalese communities —
 especially older adults — to track meals, understand nutrition, and
