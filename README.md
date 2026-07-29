@@ -1,6 +1,6 @@
 # 🥘 Santé 
 
-A culturally-aware health & nutrition app for Senegalese communities —
+A culturally-aware health & nutrition app for  communities —
 especially older adults — to track meals, understand nutrition, and
 prevent diet-related disease.
 
